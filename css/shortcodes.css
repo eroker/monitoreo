@@ -2570,7 +2570,18 @@ ul.sc_list_style_iconed {
     background-image:url(../images/2348x2451.jpg);
 	width:49%;
 	left: 0;
+	
+	
 }
+
+.sc_dof.style_1 .sc_dof_image {
+    background-image:url(../images/dof_2348x2451.jpg);
+	width:49%;
+	left: 0;
+	
+	
+}
+
 .sc_promo.style_1 .sc_promo_block {
 	width: 51%; 
 	float: right;
