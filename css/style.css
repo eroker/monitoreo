@@ -8233,6 +8233,14 @@ h6 .wpb_text_column p {
 	background-image: url(../images/1920x479.jpg);
 	background-size: cover;
 	background-position: center;
+	
+}
+
+.top_panel_image.top_panel_image_2{
+	background-image: url(../images/1920x479-.jpg);
+	background-size: cover;
+	background-position: center;
+	
 }
 .call_to_action_bg{
 	background-image:url(../images/570x338.jpg);
